@@ -1,0 +1,15 @@
+C:\Users\Саргис\OneDrive\Рабочий стол\урокC#\C#урок\урок1,2\bin\Debug\net6.0\урок1,2.exe
+C:\Users\Саргис\OneDrive\Рабочий стол\урокC#\C#урок\урок1,2\bin\Debug\net6.0\урок1,2.deps.json
+C:\Users\Саргис\OneDrive\Рабочий стол\урокC#\C#урок\урок1,2\bin\Debug\net6.0\урок1,2.runtimeconfig.json
+C:\Users\Саргис\OneDrive\Рабочий стол\урокC#\C#урок\урок1,2\bin\Debug\net6.0\урок1,2.dll
+C:\Users\Саргис\OneDrive\Рабочий стол\урокC#\C#урок\урок1,2\bin\Debug\net6.0\урок1,2.pdb
+C:\Users\Саргис\OneDrive\Рабочий стол\урокC#\C#урок\урок1,2\obj\Debug\net6.0\урок1,2.csproj.AssemblyReference.cache
+C:\Users\Саргис\OneDrive\Рабочий стол\урокC#\C#урок\урок1,2\obj\Debug\net6.0\урок1,2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Саргис\OneDrive\Рабочий стол\урокC#\C#урок\урок1,2\obj\Debug\net6.0\урок1,2.AssemblyInfoInputs.cache
+C:\Users\Саргис\OneDrive\Рабочий стол\урокC#\C#урок\урок1,2\obj\Debug\net6.0\урок1,2.AssemblyInfo.cs
+C:\Users\Саргис\OneDrive\Рабочий стол\урокC#\C#урок\урок1,2\obj\Debug\net6.0\урок1,2.csproj.CoreCompileInputs.cache
+C:\Users\Саргис\OneDrive\Рабочий стол\урокC#\C#урок\урок1,2\obj\Debug\net6.0\урок1,2.dll
+C:\Users\Саргис\OneDrive\Рабочий стол\урокC#\C#урок\урок1,2\obj\Debug\net6.0\refint\урок1,2.dll
+C:\Users\Саргис\OneDrive\Рабочий стол\урокC#\C#урок\урок1,2\obj\Debug\net6.0\урок1,2.pdb
+C:\Users\Саргис\OneDrive\Рабочий стол\урокC#\C#урок\урок1,2\obj\Debug\net6.0\урок1,2.genruntimeconfig.cache
+C:\Users\Саргис\OneDrive\Рабочий стол\урокC#\C#урок\урок1,2\obj\Debug\net6.0\ref\урок1,2.dll
